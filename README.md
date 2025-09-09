@@ -1,4 +1,3 @@
-# Arshmeetsingh02
 # 👋 Hi there, I’m Arshmeet Singh  
 🚀 **Senior Python Full-Stack Developer | AI & ML Expert | Generative AI Enthusiast**  
 
