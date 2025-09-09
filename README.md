@@ -46,5 +46,7 @@ Welcome to my GitHub profile! I specialize in **AI-powered applications, full-st
 
 ## 🌍 Connect with Me  
 📫 Email: arshmeet196@gmail.com
+[![Upwork Badge](assets/upwork-logo.png)](https://www.upwork.com/freelancers/~01a4326117e4eb22b2?mp_source=share)
+
 
 ⚡ *Always open to collaboration on AI/ML, SaaS, and full-stack projects.*
